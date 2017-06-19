@@ -46,7 +46,7 @@
     "serverless": "^1.15.1"
   },
   "dependencies": {
-    "aws-sdk": "^2.6.3",
+    "aws-sdk": "^2.72.0",
     "bluebird": "^3.5.0",
     "chai": "^4.0.2",
     "ejs": "^2.5.2",
